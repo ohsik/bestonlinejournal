@@ -3,6 +3,8 @@ layout: post
 title: Best online journal apps for keeping a journal in 2021
 ---
 
+<p class="disclosure"><strong>Disclosure:</strong> we run Goodnight Journal, one of the apps recommended below. We have tried to be fair and specific about what every app here does well, but you should weigh our recommendation knowing that.</p>
+
 Writing down your thoughts, for ages, is considered to be an act of releasing stress. We know that it could be tiring to maintain a logbook just for your scribbles when your whole work is done at the online platform. Well, the good news is, you don't have to. There are so many apps and websites available at your fingertips that will help you to keep a journal more systematically.
 
 Below are the top online journal platforms for 2021 that will help you stay organized:

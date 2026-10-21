@@ -36,8 +36,14 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# Google Analytics 4 measurement ID (e.g. G-XXXXXXXXXX) to activate tracking.
+# Note: Universal Analytics (UA-...) IDs no longer work -- Google shut that
+# property type down in July 2023. This must be a GA4 "G-" ID.
 google_analytics:
+
+# Google Search Console verification token. In Search Console choose the
+# "HTML tag" verification method and paste only the content="..." value here.
+google_site_verification:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed

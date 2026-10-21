@@ -3,6 +3,8 @@ layout: post
 title: Online journal apps compared - how to choose the right one
 ---
 
+<p class="disclosure"><strong>Disclosure:</strong> we run Goodnight Journal, one of the apps recommended below. We have tried to be fair and specific about what every app here does well, but you should weigh our recommendation knowing that.</p>
+
 Finding the best online journal gets harder every year, because there are more of them every year. The good news is that most of the serious options are genuinely good. The bad news is that "good" is not the same as "right for you", and the only way to tell them apart is to know what you actually want from the habit.
 
 This is a comparison rather than a ranking. Below, each app is matched to the kind of writer it suits best.

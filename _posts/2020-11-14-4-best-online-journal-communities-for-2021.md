@@ -3,6 +3,8 @@ layout: post
 title: 4 best online journal communities for 2021
 ---
 
+<p class="disclosure"><strong>Disclosure:</strong> we run Goodnight Journal, one of the apps recommended below. We have tried to be fair and specific about what every app here does well, but you should weigh our recommendation knowing that.</p>
+
 <p>There are so many apps for online journals but only few offer a community. Although, writing a journal already has a tone of keeping it secret, it is still nice to have an option to share your journal with your family, friends, or someone you don’t know. Here are 4 online journals I found that offer community where you can share your journals with others and get connected with each other.</p>
 
 <p>In this article, I will review 4 online journal apps that offer a community for journal writers.</p>

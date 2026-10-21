@@ -3,6 +3,8 @@ layout: post
 title: Digital journal vs paper journal - which is right for you?
 ---
 
+<p class="disclosure"><strong>Disclosure:</strong> we run Goodnight Journal, one of the apps recommended below. We have tried to be fair and specific about what every app here does well, but you should weigh our recommendation knowing that.</p>
+
 Everyone who decides to start journaling runs into this question within about five minutes, and the internet is unhelpfully split on it. One camp insists that writing by hand is the whole point. The other cannot see why you would use anything other than the device already in your pocket.
 
 Both are right about their own experience. Here is what each one is genuinely better at, so you can pick on the basis of how you actually live rather than on how you would like to imagine yourself.

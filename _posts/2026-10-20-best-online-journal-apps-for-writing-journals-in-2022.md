@@ -3,6 +3,8 @@ layout: post
 title: Best online journal apps for writing journals in 2026
 ---
 
+<p class="disclosure"><strong>Disclosure:</strong> we run Goodnight Journal, one of the apps recommended below. We have tried to be fair and specific about what every app here does well, but you should weigh our recommendation knowing that.</p>
+
 Writing a journal is a way of reflecting on your problems and your limits. It is also an exercise in self-knowledge. When you write a journal there is nobody to impress and nothing to get right — just a blank page and no judgement.
 
 An online journal app makes the habit much easier to keep. It is with you wherever your phone is, it searches years of entries in a second, and it cannot be lost or read by whoever finds it in a drawer. Below are five we think are worth your time this year, and what each one is genuinely good at.

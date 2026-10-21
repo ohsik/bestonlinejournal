@@ -90,6 +90,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - SEO-BACKLOG.md
 
 plugins:
   - jekyll-seo-tag

@@ -14,7 +14,7 @@ and move the content effort to the product domain instead.
 
 ## Tier 1 — tool-selection intent (converts)
 
-- [ ] Best free online journal apps — `free online journal`, `free online diary`
+- [x] Best free online journal apps — `free online journal`, `free online diary`
 - [ ] Online journal with a community — `online journal community`
 - [ ] How to keep a journal private online — `private online journal`
 - [ ] Is it safe to keep a journal online? — `online journal safe`, `journal app privacy`

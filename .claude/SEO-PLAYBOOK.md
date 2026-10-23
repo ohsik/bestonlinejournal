@@ -89,7 +89,11 @@ a post wholesale to one form or the other. Images live in `images/post/`.
    warnings are pre-existing and expected.
 2. Confirm the new post actually built: `ls _site/<slug>/index.html`.
    If it is missing, the date is in the future.
-3. Confirm exactly one `<h1>` on the new page.
+3. Confirm the post body adds **no** `<h1>` of its own. This site renders two
+   per page already -- the masthead logo (`<h1 class="site-name site-logo">`)
+   and the post title -- so a correct new post has exactly **two**. Three means
+   the body introduced one; use `##` instead. Do not try to remove the two
+   built-in ones, and do not use `grep -c '<h1'` as a pass/fail gate here.
 4. Confirm every internal link resolves against `_site`.
 5. Diff the full generated URL list against `master` and confirm **additions
    only**. No existing URL may change.

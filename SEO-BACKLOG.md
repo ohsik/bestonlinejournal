@@ -15,7 +15,10 @@ and move the content effort to the product domain instead.
 ## Tier 1 — tool-selection intent (converts)
 
 - [x] Best free online journal apps — `free online journal`, `free online diary`
-- [ ] Online journal with a community — `online journal community`
+- [x] Online journal with a community — `online journal community`
+      (done as a refresh of the existing `/4-best-online-journal-communities-for-2021/`
+      post, NOT a new page -- a new one would have cannibalised it. Check for an
+      existing post on a backlog keyword before creating a page.)
 - [ ] How to keep a journal private online — `private online journal`
 - [ ] Is it safe to keep a journal online? — `online journal safe`, `journal app privacy`
 - [ ] Best online journal apps for Android — `online journal android`

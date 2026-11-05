@@ -17,6 +17,24 @@ title: How to keep a journal private online
 
 <p>So the question is not "which is private" but "private from whom." Decide that first, because it changes the answer completely.</p>
 
+<h2>Is it safe to keep a journal online?</h2>
+
+<p>For most people, yes — but it is worth knowing which risks are real and which are the ones you are imagining.</p>
+
+<p>The risk people picture is a hacker going after their diary. That is close to the least likely thing that will happen to you. Nobody is targeting one person's journal; there is nothing in it to sell.</p>
+
+<p>The risks that actually occur, in rough order of how often:</p>
+
+<ul>
+  <li><b>Someone who knows you picks up your unlocked phone.</b> This is the realistic threat, and it is the one most people do nothing about. A screen lock defeats it entirely.</li>
+  <li><b>Your password turns up in an unrelated breach</b> and you reused it. Two-factor authentication stops this cold.</li>
+  <li><b>The service shuts down.</b> Not a security failure, but it ends with your entries gone just the same. Open Diary ran for roughly twenty-five years and still closed.</li>
+  <li><b>Company staff can technically read your entries.</b> True of nearly every hosted journal, including ours. It is governed by policy, not mathematics, unless the app uses end-to-end encryption.</li>
+  <li><b>Legal process.</b> A company that can read your entries can be compelled to hand them over. Rare, and it will not apply to most people, but it is the honest ceiling on any hosted service.</li>
+</ul>
+
+<p>So: safe enough for ordinary private writing, if you lock your device, use a unique password with two-factor, and export occasionally. Not the right place for something that would cause you serious harm if it ever surfaced. For that, use end-to-end encryption or paper.</p>
+
 <h2>The four things that actually matter</h2>
 
 <p><b>1. Is it private by default, or private by setting?</b></p>

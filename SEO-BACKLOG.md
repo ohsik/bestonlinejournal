@@ -20,7 +20,10 @@ and move the content effort to the product domain instead.
       post, NOT a new page -- a new one would have cannibalised it. Check for an
       existing post on a backlog keyword before creating a page.)
 - [x] How to keep a journal private online — `private online journal`
-- [ ] Is it safe to keep a journal online? — `online journal safe`, `journal app privacy`
+- [x] Is it safe to keep a journal online? — `online journal safe`, `journal app privacy`
+      (merged into `/how-to-keep-a-journal-private-online/` as its own question-framed
+      section, NOT a separate page -- same subject and intent, so two pages would have
+      split one query cluster. Second time this has happened; keep checking.)
 - [ ] Best online journal apps for Android — `online journal android`
 - [ ] Best online journal apps for iPhone — `online journal iphone`
 - [ ] Online journal you can access from any device — `journal sync devices`

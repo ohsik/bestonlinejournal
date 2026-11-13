@@ -25,7 +25,7 @@ and move the content effort to the product domain instead.
       section, NOT a separate page -- same subject and intent, so two pages would have
       split one query cluster. Second time this has happened; keep checking.)
 - [x] Best online journal apps for Android — `online journal android`
-- [ ] Best online journal apps for iPhone — `online journal iphone`
+- [x] Best online journal apps for iPhone — `online journal iphone`
 - [ ] Online journal you can access from any device — `journal sync devices`
 - [ ] Journal apps with no ads — `journal app without ads`
 

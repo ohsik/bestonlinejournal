@@ -26,8 +26,18 @@ and move the content effort to the product domain instead.
       split one query cluster. Second time this has happened; keep checking.)
 - [x] Best online journal apps for Android — `online journal android`
 - [x] Best online journal apps for iPhone — `online journal iphone`
-- [ ] Online journal you can access from any device — `journal sync devices`
-- [ ] Journal apps with no ads — `journal app without ads`
+
+## Deferred — needs a decision, do not write these
+
+- Online journal you can access from any device — `journal sync devices`
+      Duplicates bestjournalapps' "Journal Apps That Sync Across Devices".
+      Only one site should own this keyword; delete the loser.
+- Journal apps with no ads — `journal app without ads`
+      Needs a per-app claim about whether each competitor shows advertising.
+      That cannot be verified from a session (the sites are unreachable here),
+      and it is the same class of unverifiable claim as pricing, which the
+      playbook forbids. An article on this keyword that will not say which apps
+      are ad-free is useless. Write it only with confirmed, dated evidence.
 
 ## Tier 2 — journaling topics (depth)
 
@@ -36,7 +46,7 @@ and move the content effort to the product domain instead.
 - [ ] Journaling for depression — `journaling depression` (care note required)
 - [ ] Journaling for grief — `journaling grief` (care note required)
 - [ ] Journaling after a breakup — `journaling after breakup`
-- [ ] What to write when you don't know what to write — `what to write in a journal`
+- [x] What to write when you don't know what to write — `what to write in a journal`
 - [ ] How often should you write in a journal? — `how often journal`
 - [ ] Morning pages explained — `morning pages`
 - [ ] Journaling before bed — `night journaling`, `journal before bed`

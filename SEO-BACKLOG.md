@@ -44,7 +44,7 @@ and move the content effort to the product domain instead.
 - [x] Journaling for anxiety — includes the professional-care note
 - [x] Digital journal vs paper journal
 - [x] Journaling for depression — `journaling depression` (care note required)
-- [ ] Journaling for grief — `journaling grief` (care note required)
+- [x] Journaling for grief — `journaling grief` (care note required)
 - [ ] Journaling after a breakup — `journaling after breakup`
 - [x] What to write when you don't know what to write — `what to write in a journal`
 - [ ] How often should you write in a journal? — `how often journal`
